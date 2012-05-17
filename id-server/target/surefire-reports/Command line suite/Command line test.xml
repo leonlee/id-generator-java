@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="leon-HP-ProBook-4421s" name="com.riderzen.id.IDGeneratorTest" tests="16" failures="0" timestamp="17 May 2012 09:51:11 GMT" time="0.162" errors="0">
+  <testcase name="testBinaryId1" time="0.0050" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId10" time="0.0030" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId11" time="0.0010" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId12" time="0.0" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId13" time="0.0" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId14" time="0.0010" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId2" time="0.0010" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId3" time="0.0" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId4" time="0.0" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId5" time="0.0010" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId6" time="0.0010" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId7" time="0.0" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId8" time="0.0" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testBinaryId9" time="0.0" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testGenerate" time="0.0" classname="com.riderzen.id.IDGeneratorTest"/>
+  <testcase name="testGenerateHex" time="0.0070" classname="com.riderzen.id.IDGeneratorTest"/>
+</testsuite>

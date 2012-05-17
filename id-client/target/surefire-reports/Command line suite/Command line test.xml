@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="leon-HP-ProBook-4421s" name="com.riderzen.id.IDClientTest" tests="6" failures="0" timestamp="17 May 2012 09:51:15 GMT" time="0.682" errors="0">
+  <testcase name="testBatchGenerate" time="0.302" classname="com.riderzen.id.IDClientTest"/>
+  <testcase name="testBatchGenerateHex" time="0.256" classname="com.riderzen.id.IDClientTest"/>
+  <testcase name="testDecode" time="0.0020" classname="com.riderzen.id.IDClientTest"/>
+  <testcase name="testDecodeHex" time="0.0" classname="com.riderzen.id.IDClientTest"/>
+  <testcase name="testGenerate" time="0.0" classname="com.riderzen.id.IDClientTest"/>
+  <testcase name="testGenerateWithRegion" time="0.0" classname="com.riderzen.id.IDClientTest"/>
+</testsuite>
